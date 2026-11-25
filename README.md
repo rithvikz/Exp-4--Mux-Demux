@@ -12,7 +12,7 @@ Boolean Functions
 •	Y1 = S.D
 ## Files to be Created
 
-<img width="575" height="65" alt="image" src="https://github.com/user-attachments/assets/04c2d90c-0b6b-4b35-b603-d0e10e1e4f00" />
+<img width="2169" height="239" alt="HDL File Purpose Table" src="https://github.com/user-attachments/assets/034deed9-accf-45eb-8053-551daaa4794f" />
 
 ## Design / RTL Program
 // gedit mux_demux.v
